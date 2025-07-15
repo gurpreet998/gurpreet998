@@ -40,14 +40,23 @@ If you're looking for a Data Analyst with a proven record of transforming data i
 - <img src="https://github.com/gurpreet998/gurpreet998/blob/main/files/pics/business%20intel.png" width="50"/> Business Intelligence
   
 - <img src="https://github.com/gurpreet998/gurpreet998/blob/main/files/pics/report%20automation.png" width="50"/> Reporting Automation
+  
 - <img src="https://github.com/gurpreet998/gurpreet998/blob/main/files/pics/prob%20solv.png" width="50"/> Problem Solving
+  
 - <img src="https://github.com/gurpreet998/gurpreet998/blob/main/files/pics/powerbi.png" width="50"/> Power BI (Advanced)
+  
 - <img src="https://github.com/gurpreet998/gurpreet998/blob/main/files/pics/sql.png" width="50"/> SQL
+  
 - <img src="https://github.com/gurpreet998/gurpreet998/blob/main/files/pics/Excel-Logo-PNG-Cutout.png" width="50"/> Excel (Advanced)
+  
 - <img src="https://github.com/gurpreet998/gurpreet998/blob/main/files/pics/data%20modeling.png" width="50"/> Data Modeling (Star/Snowflake)
+  
 - <img src="https://github.com/gurpreet998/gurpreet998/blob/main/files/pics/Tableau-Logo.png" width="50"/> Tableau
+  
 - <img src="https://github.com/gurpreet998/gurpreet998/blob/main/files/pics/Python.png" width="50"/> Python (Pandas, Numpy)
+  
 - <img src="https://github.com/gurpreet998/gurpreet998/blob/main/files/pics/Power%2BQuery%2BIcon.png" width="50"/> Power Query (M, DAX)
+  
 - <img src="https://github.com/gurpreet998/gurpreet998/blob/main/files/pics/statisticcs.png" width="50"/> Descriptive & Inferential Stats
 
 
