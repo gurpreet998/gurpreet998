@@ -60,6 +60,8 @@ If you're looking for a Data Analyst with a proven record of transforming data i
 - <img src="https://github.com/gurpreet998/gurpreet998/blob/main/files/pics/statisticcs.png" width="50"/> Descriptive & Inferential Stats
 
 
+
+
 ## 📊 Key Projects
 ### 📌 Telecom Churn Analysis & Prediction
 Developed an end-to-end solution combining SQL ETL, Power BI dashboards, and Python (Random Forest Model).
