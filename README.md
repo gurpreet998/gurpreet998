@@ -44,7 +44,7 @@ If you're looking for a Data Analyst with a proven record of transforming data i
 - <img src=/> Excel (Advanced)
 - <img src=> Data Modeling (Star/Snowflake)
 - <img src=/> Tableau
-- <img src=/> Python (Pandas, Numpy)
+- <img src="https://github.com/gurpreet998/gurpreet998/blob/main/files/pics/Python.png" width="20"/> Python (Pandas, Numpy)
 - <img src=/> Power Query (M, DAX)
 - <img src=/> Descriptive & Inferential Stats
 
