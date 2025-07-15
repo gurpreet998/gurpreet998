@@ -21,9 +21,18 @@ With industry experience spanning IT Services, Consulting, and Analytics, I have
 ✅ Reduced turnaround times and empowered business teams with data-driven solutions
 
 ## 🛠️ Core Skills
-Data Analysis	Business Intelligence	Reporting Automation	Problem Solving
-Power BI (Advanced)	SQL (T-SQL)	Excel (Advanced)	Data Modeling (Star/Snowflake)
-Tableau	Python (Pandas, Numpy)	Power Query (M, DAX)	Descriptive & Inferential Stats
+Data Analysis
+Business Intelligence
+Reporting Automation
+Problem Solving
+Power BI (Advanced)	
+SQL
+Excel(Advanced)	
+Data Modeling (Star/Snowflake)
+Tableau	
+Python (Pandas, Numpy)	
+Power Query (M, DAX)	
+Descriptive & Inferential Stats
 
 ## 📊 Key Projects
 ### 📌 Telecom Churn Analysis & Prediction
@@ -41,22 +50,22 @@ Automated performance and cost reporting for HR data using Python and Pandas.
 
 Applied imputation, business rules for bonuses/promotions, and delivered clean datasets for further analysis.
 
-🏆 Achievements
+## 🏆 Achievements
 ⭐ Automated reporting at Accenture & Navisite, cutting time by 80%, boosting accuracy by 95%
 ⭐ Customer Delight Award (x2) and Rookie Award recipient at Navisite
 ⭐ Microsoft Power BI Certified
 ⭐ Google Data Analytics Certified (Data Wrangling, Visualization, Stakeholder Communication)
 ⭐ Built Power BI solutions adopted by 10+ stakeholders for operational excellence
 
-📚 Education
-National Institute of Technology, Hamirpur (2016 – 2021)
+## 📚 Education
+### National Institute of Technology, Hamirpur (2016 – 2021)
 🎓 M.Tech & B.Tech in Electronics and Communication Engineering
 
 CGPA (M.Tech): 7.77 / 10.0
 
 CGPA (B.Tech): 7.52 / 10.0
 
-🔮 Current Interests & Learning Goals
+## 🔮 Current Interests & Learning Goals
 I'm actively expanding my expertise in:
 
 Cloud Analytics (Azure, AWS)
@@ -69,7 +78,7 @@ Advanced Python for Analytics
 
 Predictive Modeling & Machine Learning (beginner level)
 
-📫 Let's Connect
+## 📫 Let's Connect
 If you're looking for a Data Analyst with a proven record of transforming data into insights and driving tangible business impact — I'd love to connect.
 
 ✉️ Email: gs268197@gmail.com
@@ -83,5 +92,5 @@ If you're looking for a Data Analyst with a proven record of transforming data i
 🌐 Portfolio: gurpreet-singh-998.vercel.app
 
 
-💡 Personal Note
+## 💡 Personal Note
 I believe data isn't just about numbers — it's about uncovering patterns, solving problems, and telling the story that drives business forward. I'm always open to conversations about data, technology, and business insights.
