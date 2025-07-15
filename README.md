@@ -1,4 +1,4 @@
-# 🚀 Data Analyst | Power BI | SQL | Data Storytelling | Open to New Opportunities
+# 🚀Data Analyst | Power BI | SQL | Data Storytelling | Open to New Opportunities
 
 ## 🔎 About Me
 I'm Gurpreet Singh, a passionate and results-oriented Data Analyst currently working at Accenture, Gurugram. I bring together strong technical expertise with business acumen to help organizations transform raw data into actionable insights, driving better decisions and measurable business outcomes.
@@ -35,18 +35,18 @@ If you're looking for a Data Analyst with a proven record of transforming data i
 ✅ Reduced turnaround times and empowered business teams with data-driven solutions
 
 ## 🛠️ Core Skills
-- <img src=/> Data Analysis
-- <img src=/> Business Intelligence
-- <img src=/> Reporting Automation
-- <img src=/> Problem Solving
-- <img src=/> Power BI (Advanced)
-- <img src=/> SQL
-- <img src=/> Excel (Advanced)
-- <img src=> Data Modeling (Star/Snowflake)
-- <img src=/> Tableau
+- <img src="https://github.com/gurpreet998/gurpreet998/blob/main/files/pics/data%20analysis.png" width="20"/> Data Analysis
+- <img src="https://github.com/gurpreet998/gurpreet998/blob/main/files/pics/business%20intel.png" width="20"/> Business Intelligence
+- <img src="https://github.com/gurpreet998/gurpreet998/blob/main/files/pics/report%20automation.png" width="20"/> Reporting Automation
+- <img src="https://github.com/gurpreet998/gurpreet998/blob/main/files/pics/prob%20solv.png" width="20"/> Problem Solving
+- <img src="https://github.com/gurpreet998/gurpreet998/blob/main/files/pics/powerbi.png" width="20"/> Power BI (Advanced)
+- <img src="https://github.com/gurpreet998/gurpreet998/blob/main/files/pics/sql.png" width="20"/> SQL
+- <img src="https://github.com/gurpreet998/gurpreet998/blob/main/files/pics/Excel-Logo-PNG-Cutout.png" width="20"/> Excel (Advanced)
+- <img src="https://github.com/gurpreet998/gurpreet998/blob/main/files/pics/data%20modeling.png" width="20"/> Data Modeling (Star/Snowflake)
+- <img src="https://github.com/gurpreet998/gurpreet998/blob/main/files/pics/Tableau-Logo.png" width="20"/> Tableau
 - <img src="https://github.com/gurpreet998/gurpreet998/blob/main/files/pics/Python.png" width="20"/> Python (Pandas, Numpy)
-- <img src=/> Power Query (M, DAX)
-- <img src=/> Descriptive & Inferential Stats
+- <img src="https://github.com/gurpreet998/gurpreet998/blob/main/files/pics/Power%2BQuery%2BIcon.png" width="20"/> Power Query (M, DAX)
+- <img src="https://github.com/gurpreet998/gurpreet998/blob/main/files/pics/statisticcs.png" width="20"/> Descriptive & Inferential Stats
 
 
 ## 📊 Key Projects
