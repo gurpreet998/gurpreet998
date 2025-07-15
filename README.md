@@ -7,6 +7,19 @@ I specialize in solving business problems through Data Visualization, Business I
 
 With industry experience spanning IT Services, Consulting, and Analytics, I have collaborated with cross-functional stakeholders to streamline reporting, improve operational performance, and enable data-driven decision-making.
 
+## 📫 Let's Connect
+If you're looking for a Data Analyst with a proven record of transforming data into insights and driving tangible business impact — I'd love to connect.
+
+✉️ Email: gs268197@gmail.com
+
+📱 Mobile: +91 7018320090
+
+🔗 LinkedIn: linkedin.com/in/gurpreetsingh1998
+
+💻 GitHub: github.com/gurpreet998
+
+🌐 Portfolio: gurpreet-singh-998.vercel.app
+
 ## 💼 Current Role
 ### Analyst | Accenture, Gurugram (Nov 2024 – Present)
 ✅ Delivered scalable BI solutions to enhance decision-making and minimize manual reporting
@@ -79,18 +92,7 @@ Advanced Python for Analytics
 
 Predictive Modeling & Machine Learning (beginner level)
 
-## 📫 Let's Connect
-If you're looking for a Data Analyst with a proven record of transforming data into insights and driving tangible business impact — I'd love to connect.
 
-✉️ Email: gs268197@gmail.com
-
-📱 Mobile: +91 7018320090
-
-🔗 LinkedIn: linkedin.com/in/gurpreetsingh1998
-
-💻 GitHub: github.com/gurpreet998
-
-🌐 Portfolio: gurpreet-singh-998.vercel.app
 
 
 ## 💡 Personal Note
