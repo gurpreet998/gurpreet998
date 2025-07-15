@@ -23,7 +23,7 @@ If you're looking for a Data Analyst with a proven record of transforming data i
 ## 🛠️ Core Skills
 
 
-- <img src="https://github.com/gurpreet998/gurpreet998/blob/main/files/pics/powerbi.png" width="50"/> Power BI
+### - <img src="https://github.com/gurpreet998/gurpreet998/blob/main/files/pics/powerbi.png" width="50"/> Power BI
   
 - <img src="https://github.com/gurpreet998/gurpreet998/blob/main/files/pics/sql.png" width="50"/> SQL
   
