@@ -35,18 +35,18 @@ If you're looking for a Data Analyst with a proven record of transforming data i
 ✅ Reduced turnaround times and empowered business teams with data-driven solutions
 
 ## 🛠️ Core Skills
-- Data Analysis
-- Business Intelligence
-- Reporting Automation
-- Problem Solving
-- Power BI (Advanced)
-- SQL
-- Excel (Advanced)
-- Data Modeling (Star/Snowflake)
-- Tableau
-- Python (Pandas, Numpy)
-- Power Query (M, DAX)
-- Descriptive & Inferential Stats
+- <img src=/> Data Analysis
+- <img src=/> Business Intelligence
+- <img src=/> Reporting Automation
+- <img src=/> Problem Solving
+- <img src=/> Power BI (Advanced)
+- <img src=/> SQL
+- <img src=/> Excel (Advanced)
+- <img src=> Data Modeling (Star/Snowflake)
+- <img src=/> Tableau
+- <img src=/> Python (Pandas, Numpy)
+- <img src=/> Power Query (M, DAX)
+- <img src=/> Descriptive & Inferential Stats
 
 
 ## 📊 Key Projects
