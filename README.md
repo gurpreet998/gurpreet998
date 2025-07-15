@@ -14,7 +14,8 @@ With industry experience spanning IT Services, Consulting, and Analytics, I have
 ✅ Cut manual reporting time by 90% through automation and self-serve dashboards
 ✅ Drove adoption through stakeholder training and communication
 
-### Previous Role: Associate Consultant | Navisite India (Oct 2022 – Oct 2024)
+## Previous Role
+### Associate Consultant | Navisite India (Oct 2022 – Oct 2024)
 ✅ Enhanced existing reporting systems (Power BI, SQL, Excel, Power Query) for reliable, actionable insights
 ✅ Built centralized reporting platforms to support strategic business planning
 ✅ Unified fragmented datasets to improve consistency and accuracy in reporting
