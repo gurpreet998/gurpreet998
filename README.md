@@ -51,7 +51,7 @@ Automated performance and cost reporting for HR data using Python and Pandas.
 
 Applied imputation, business rules for bonuses/promotions, and delivered clean datasets for further analysis.
 
-## 🏆 Achievements
+## 🏆 Achievements and Certifications
 ⭐ Automated reporting at Accenture & Navisite, cutting time by 80%, boosting accuracy by 95%
 ⭐ Customer Delight Award (x2) and Rookie Award recipient at Navisite
 ⭐ Microsoft Power BI Certified
