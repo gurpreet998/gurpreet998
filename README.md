@@ -47,7 +47,11 @@ If you're looking for a Data Analyst with a proven record of transforming data i
   
 ### - <img src="https://github.com/gurpreet998/gurpreet998/blob/main/files/pics/statisticcs.png" width="50"/> Descriptive & Inferential Stats
 
-  
+
+
+----------------------------------------------------------------------------------------------------------------  
+
+
 
 ## 💼 Current Role
 ### Analyst | Accenture, Gurugram (Nov 2024 – Present)
