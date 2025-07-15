@@ -20,20 +20,6 @@ If you're looking for a Data Analyst with a proven record of transforming data i
 
 🌐 Portfolio: gurpreet-singh-998.vercel.app
 
-## 💼 Current Role
-### Analyst | Accenture, Gurugram (Nov 2024 – Present)
-✅ Delivered scalable BI solutions to enhance decision-making and minimize manual reporting
-✅ Created advanced Power BI dashboards (with complex DAX) and SQL pipelines to automate analytics
-✅ Cut manual reporting time by 90% through automation and self-serve dashboards
-✅ Drove adoption through stakeholder training and communication
-
-## 💼 Previous Role
-### Associate Consultant | Navisite India (Oct 2022 – Oct 2024)
-✅ Enhanced existing reporting systems (Power BI, SQL, Excel, Power Query) for reliable, actionable insights
-✅ Built centralized reporting platforms to support strategic business planning
-✅ Unified fragmented datasets to improve consistency and accuracy in reporting
-✅ Reduced turnaround times and empowered business teams with data-driven solutions
-
 ## 🛠️ Core Skills
 - <img src="https://github.com/gurpreet998/gurpreet998/blob/main/files/pics/data%20analysis.png" width="50"/> Data Analysis
   
@@ -58,6 +44,22 @@ If you're looking for a Data Analyst with a proven record of transforming data i
 - <img src="https://github.com/gurpreet998/gurpreet998/blob/main/files/pics/Power%2BQuery%2BIcon.png" width="50"/> Power Query (M, DAX)
   
 - <img src="https://github.com/gurpreet998/gurpreet998/blob/main/files/pics/statisticcs.png" width="50"/> Descriptive & Inferential Stats
+
+## 💼 Current Role
+### Analyst | Accenture, Gurugram (Nov 2024 – Present)
+✅ Delivered scalable BI solutions to enhance decision-making and minimize manual reporting
+✅ Created advanced Power BI dashboards (with complex DAX) and SQL pipelines to automate analytics
+✅ Cut manual reporting time by 90% through automation and self-serve dashboards
+✅ Drove adoption through stakeholder training and communication
+
+## 💼 Previous Role
+### Associate Consultant | Navisite India (Oct 2022 – Oct 2024)
+✅ Enhanced existing reporting systems (Power BI, SQL, Excel, Power Query) for reliable, actionable insights
+✅ Built centralized reporting platforms to support strategic business planning
+✅ Unified fragmented datasets to improve consistency and accuracy in reporting
+✅ Reduced turnaround times and empowered business teams with data-driven solutions
+
+
 
 
 
