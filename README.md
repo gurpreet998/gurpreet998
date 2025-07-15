@@ -36,7 +36,9 @@ If you're looking for a Data Analyst with a proven record of transforming data i
 
 ## 🛠️ Core Skills
 - <img src="https://github.com/gurpreet998/gurpreet998/blob/main/files/pics/data%20analysis.png" width="50"/> Data Analysis
+  
 - <img src="https://github.com/gurpreet998/gurpreet998/blob/main/files/pics/business%20intel.png" width="50"/> Business Intelligence
+  
 - <img src="https://github.com/gurpreet998/gurpreet998/blob/main/files/pics/report%20automation.png" width="50"/> Reporting Automation
 - <img src="https://github.com/gurpreet998/gurpreet998/blob/main/files/pics/prob%20solv.png" width="50"/> Problem Solving
 - <img src="https://github.com/gurpreet998/gurpreet998/blob/main/files/pics/powerbi.png" width="50"/> Power BI (Advanced)
