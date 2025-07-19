@@ -78,7 +78,7 @@ Developed an end-to-end solution combining SQL ETL, Power BI dashboards, and Pyt
 
 Achieved 0.85 AUC; identified churn-prone customers and helped recover $200K+ potential revenue.
 
-### 📌 Shop Nest Retail Analytics Dashboard
+### 📌 Retail Analytics Dashboard
 Integrated 9 datasets into a Power BI star schema model to analyze sales, delivery delays, payments, and customer ratings.
 
 Delivered actionable dashboards revealing trends and performance insights for strategic improvements.
